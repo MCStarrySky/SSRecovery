@@ -1,0 +1,3 @@
+name: SSRecovery
+version: ${project.version}
+main: me.mical.ssrecovery.SSRecovery
